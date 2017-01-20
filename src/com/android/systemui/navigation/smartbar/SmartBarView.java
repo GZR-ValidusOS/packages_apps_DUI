@@ -769,4 +769,4 @@ public class SmartBarView extends BaseNavigationBar {
                 .setDuration(PULSE_FADE_IN_DURATION)
                 .start();
     }
-
+}
